@@ -9,4 +9,4 @@
  * https://github.com/shakkirptb/mango
  */
 
-module.exports =  require("./lib/mango-aliyan");
+module.exports =  require("./lib/mango-aliyan.js");

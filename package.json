@@ -1,5 +1,5 @@
 {
-  "name": "mango",
+  "name": "mango-aliyan",
   "version": "1.0.0",
   "description": "Utility module to connect and access mongodb in node js",
   "main": "index.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shakkirptb/mango.git"
+    "url": "git+https://github.com/shakkirptb/mango-aliyan.git"
   },
   "keywords": [
     "mongo",
-	"mango",
+	"mango-aliyan",
 	"node",
     "node js",
     "mongodb",
@@ -27,7 +27,7 @@
   "author": "Muhammed Shakkir TK<shakkirptb@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shakkirptb/mango/issues"
+    "url": "https://github.com/shakkirptb/mango-aliyan/issues"
   },
-  "homepage": "https://github.com/shakkirptb/mango#readme"
+  "homepage": "https://github.com/shakkirptb/mango-aliyan#readme"
 }

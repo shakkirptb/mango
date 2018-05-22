@@ -1,5 +1,5 @@
 /**
- * mango
+ * mango-aliyan
  *
  * built on top of mongodb client module, this nodejs module 
  * will help to connect multiple collection from multiple db 

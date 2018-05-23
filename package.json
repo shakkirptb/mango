@@ -1,6 +1,6 @@
 {
   "name": "mango-aliyan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility module to connect and access mongodb in node js",
   "main": "index.js",
   "directories": {

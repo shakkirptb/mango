@@ -2,7 +2,8 @@
 easy to use mongodb librabry using mongo driver module
 
 <h2>Install</h2>
-```npm i mango-aliyan```
+
+npm i mango-aliyan
 
 <h2>Connect</h2>
 Connect and get references all your collections across multiple databases.

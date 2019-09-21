@@ -1,5 +1,7 @@
 # Mango Aliyan
-easy to use mongodb librabry using mongo driver module
+easy to use mongodb librabry using mongo driver module.
+
+** callback will be replaced with async/promices soon.
 
 <h2>Install</h2>
 

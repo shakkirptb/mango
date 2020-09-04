@@ -14,7 +14,7 @@
     "url": "git+https://github.com/shakkirptb/mango-aliyan.git"
   },
   "dependencies":{
-	"mongodb":"^1.0.0"
+	"mongodb":"^3.6.1"
    },
   "keywords": [
     "mongo",
